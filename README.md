@@ -3,7 +3,7 @@ full stack MERN social media app
 
 
 ## Demo
-Click the following link to view a demo : [live demo](memories-hamzamak.vercel.app)
+Click the following link to view a demo : [live demo](https://memories-hamzamak.vercel.app)
 
 ## Installation
 
