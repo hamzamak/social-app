@@ -1,5 +1,5 @@
 import axios from 'axios';
-                                    // http://localhost:5000 for development 
+                                    // http://localhost:5000 for development
 const API = axios.create({baseURL: 'https://memory-3mau.onrender.com'})
 
 API.interceptors.request.use((req)=> {
