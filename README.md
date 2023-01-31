@@ -2,6 +2,9 @@
 full stack MERN social media app 
 
 
+## Demo
+Click the following link to view a demo : [live demo](memories-hamzamak.vercel.app)
+
 ## Installation
 
 you will need to install the packages for react
